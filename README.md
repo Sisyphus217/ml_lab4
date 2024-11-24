@@ -66,6 +66,7 @@ A short description of the project.
 
 ## Project Organization
 
+```
 ├── Dockerfile.train
 ├── Makefile
 ├── README.md
@@ -103,4 +104,4 @@ A short description of the project.
 ├── poetry.lock
 ├── pyproject.toml
 └── setup.cfg
-
+```
