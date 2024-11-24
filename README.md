@@ -39,8 +39,9 @@
 ```bash
    make upload-results
 ```
+P.S. Ссылки на экспременты ниже.
 
-P.S. На машине должен быть установлен python и poetry. Если в глобальных переменных/путях стоит python3 вместо python, то poetry может некорректно работать. Чтобы исправить, создадим символическую ссылку:
+P.S.P.S На машине должен быть установлен python и poetry. Если в глобальных переменных/путях стоит python3 вместо python, то poetry может некорректно работать. Чтобы исправить, создадим символическую ссылку:
    ```bash
    sudo ln -s $(which python3) /usr/local/bin/python
    ```
@@ -57,6 +58,49 @@ P.S. На машине должен быть установлен python и poet
    poetry env use python3.10
    poetry install
    ```
+
+Ссылки на экспременты: 
+https://wandb.ai/lyatioma216-ural-federal-university/ml_experiments/runs/dghd7bwl?nw=nwuserlyatioma216
+
+https://wandb.ai/lyatioma216-ural-federal-university/ml_experiments/runs/khbhwelj?nw=nwuserlyatioma216
+
+https://wandb.ai/lyatioma216-ural-federal-university/ml_experiments/runs/camls06v?nw=nwuserlyatioma216
+
+https://wandb.ai/lyatioma216-ural-federal-university/ml_experiments/runs/p4ins7e8?nw=nwuserlyatioma216
+
+https://wandb.ai/lyatioma216-ural-federal-university/ml_experiments/runs/cm0w08g3?nw=nwuserlyatioma216
+
+https://wandb.ai/lyatioma216-ural-federal-university/ml_experiments/runs/flbxsryp?nw=nwuserlyatioma216
+
+https://wandb.ai/lyatioma216-ural-federal-university/ml_experiments/runs/2pjwjdnp?nw=nwuserlyatioma216
+
+https://wandb.ai/lyatioma216-ural-federal-university/ml_experiments/runs/uqfnfow8?nw=nwuserlyatioma216
+
+https://wandb.ai/lyatioma216-ural-federal-university/ml_experiments/runs/7wfv9eup?nw=nwuserlyatioma216
+
+https://wandb.ai/lyatioma216-ural-federal-university/ml_experiments/runs/sm5vzeuv?nw=nwuserlyatioma216
+
+https://wandb.ai/lyatioma216-ural-federal-university/ml_experiments/runs/akemy4si?nw=nwuserlyatioma216
+
+https://wandb.ai/lyatioma216-ural-federal-university/ml_experiments/runs/8cslrb01?nw=nwuserlyatioma216
+
+https://wandb.ai/lyatioma216-ural-federal-university/ml_experiments/runs/jajw5tj8?nw=nwuserlyatioma216
+
+https://wandb.ai/lyatioma216-ural-federal-university/ml_experiments/runs/bhbt5j0i?nw=nwuserlyatioma216
+
+https://wandb.ai/lyatioma216-ural-federal-university/ml_experiments/runs/lld40pk3?nw=nwuserlyatioma216
+
+https://wandb.ai/lyatioma216-ural-federal-university/ml_experiments/runs/8yghp5tj?nw=nwuserlyatioma216
+
+https://wandb.ai/lyatioma216-ural-federal-university/ml_experiments/runs/s0kwhjyf?nw=nwuserlyatioma216
+
+https://wandb.ai/lyatioma216-ural-federal-university/ml_experiments/runs/068t6o2k?nw=nwuserlyatioma216
+
+https://wandb.ai/lyatioma216-ural-federal-university/ml_experiments/runs/0ka5oiks?nw=nwuserlyatioma216
+
+https://wandb.ai/lyatioma216-ural-federal-university/ml_experiments/runs/e3hja31g?nw=nwuserlyatioma216
+
+https://wandb.ai/lyatioma216-ural-federal-university/ml_experiments/runs/1hqt6r5j?nw=nwuserlyatioma216
 
 <a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
